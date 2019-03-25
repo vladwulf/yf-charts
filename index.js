@@ -18,6 +18,5 @@ async function getChart(symbol, region='GB', interval, range) {
 }
 
 module.exports = {
-  getQuery,
   getChart
 }
